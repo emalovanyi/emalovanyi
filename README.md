@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Malovanyi Yevhenii
+- 👀 I’m interested in programming. But in the future my aim is to become a good full-stack developer
+- 🌱 I’m currently learning C and JS.
+- 📫 How to reach me? You can visit my LinkedIn profile (https://www.linkedin.com/in/yevheniimalovanyi/) or write me an email (emalovanyi@gmail.com)
+- Thanks, and good luck to all of you!

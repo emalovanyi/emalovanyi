@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malovanyi Yevhenii
 - 👀 Interested in different projects with different aims.
-- 🌱 I’m currently learning C and data structures. I have made some interesting projects in my university. You can find them ii my Github.
+- 🌱 I’m currently learning C and data structures. I have made some interesting projects in my university. You can find them in my Github.
 - 📫 How to reach me? You can visit my LinkedIn profile (https://www.linkedin.com/in/yevheniimalovanyi/) or write me an email (emalovanyi@gmail.com)
 - Thanks, and good luck to all of you!
